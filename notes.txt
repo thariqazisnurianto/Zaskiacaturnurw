@@ -1,0 +1,19 @@
+PANDUAN PORTOFOLIO SOFT GIRL
+
+Isi folder:
+- index.html: pintu masuk GitHub Pages, otomatis mengarah ke home.html
+- home.html: halaman Home
+- profil.html: halaman Profil
+- about.html: halaman Tentang
+- gallery.html: halaman Galeri dan 2 tombol playlist musik
+- kontak.html: halaman Kontak
+- style.css: gaya visual semua halaman
+- images/: simpan foto profil di sini dengan nama foto-profil.jpg
+
+PENTING:
+1. Upload semua file dan folder ke root repository GitHub, jangan hanya index.html.
+2. Di Settings > Pages pilih Deploy from a branch, branch main, folder /(root).
+3. Link navigasi sudah mengarah ke file HTML yang terpisah.
+4. Ganti "Nama Kamu", informasi contoh, email, Instagram, dan teks lain sebelum dipublikasikan.
+5. Untuk foto profil, simpan gambar di images/foto-profil.jpg. Jika nama file diubah, perbarui src di home.html.
+6. Dua tombol musik di gallery.html membuka hasil pencarian playlist YouTube. Musik tidak autoplay.
